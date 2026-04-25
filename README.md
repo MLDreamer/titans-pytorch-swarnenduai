@@ -17,6 +17,6 @@ This repository explores the "Model-inside-a-Model" paradigm. Unlike standard Tr
 
 ### Installation
 ```bash
-git clone [https://github.com/YOUR_USERNAME/titans-pytorch-swarnenduai.git](https://github.com/YOUR_USERNAME/titans-pytorch-swarnenduai.git)
+git clone [https://github.com/MLDreamer/titans-pytorch-swarnenduai.git](https://github.com/MLDreamer/titans-pytorch-swarnenduai.git)
 cd titans-pytorch-swarnenduai
 pip install -e .
